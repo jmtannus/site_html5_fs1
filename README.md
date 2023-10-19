@@ -1,4 +1,4 @@
-Dimension by HTML5 UP
+## ![Dimension by HTML5 UP](html5up.net | @ajlkn)
 html5up.net | @ajlkn
 <br>
 
